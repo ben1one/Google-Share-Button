@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Sosyal a\u011F hizmetlerini veya e-postay\u0131 kullanarak bu sayfay\u0131 arkada\u015Flar\u0131n\u0131zla payla\u015F\u0131n."
+   },
+   "sharebutton_cant_share": {
+      "message": "Bu sayfa payla\u015F\u0131lamaz. G\u00FCvenli bir sayfa veya genel eri\u015Fime a\u00E7\u0131k olmayan bir sayfa olabilir."
+   },
+   "sharebutton_extension_description": {
+      "message": "Web sayfalar\u0131n\u0131 sosyal a\u011Flar\u0131n\u0131z, e-posta ve blog'lar arac\u0131l\u0131\u011F\u0131yla payla\u015Fmak i\u00E7in Payla\u015F uzant\u0131s\u0131n\u0131 kullan\u0131n."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Bu sayfay\u0131 $1 kullanarak arkada\u015Flar\u0131n\u0131zla payla\u015F\u0131n",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Y\u00FCkleniyor..."
+   },
+   "sharebutton_more_items": {
+      "message": "Di\u011Fer..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Bu men\u00FCde di\u011Fer hizmetleri g\u00F6r\u00FCnt\u00FCle"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon, \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E adresinde bulunabilir ve Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elisans\u0131\u003C/a\u003E kapsam\u0131nda lisanslanmaktad\u0131r."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Men\u00FCde g\u00F6r\u00FCnt\u00FClenmesini istedi\u011Finiz hizmetleri se\u00E7in."
+   },
+   "sharebutton_options_clear": {
+      "message": "Varsay\u0131lanlara s\u0131f\u0131rla"
+   },
+   "sharebutton_options_item": {
+      "message": "Se\u00E7enekler"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button Se\u00E7enekleri"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Uzant\u0131n\u0131n yap\u0131land\u0131r\u0131labilece\u011Fi Se\u00E7enekler sayfas\u0131n\u0131 g\u00F6r\u00FCnt\u00FCleyin"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Kapat"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Daha fazla hizmet g\u00F6r\u00FCnt\u00FCle"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EUyar\u0131:\u003C/b\u003E Google Share Button se\u00E7ti\u011Finiz hizmetlerden en \u00E7ok $1 tanesini g\u00F6r\u00FCnt\u00FCleyebilir.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Bu sayfay\u0131 \u015Funu kullanarak payla\u015F:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Google Share Button ile payla\u015F\u0131ld\u0131"
+   }
+}

@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Deze pagina delen met vrienden via sociale netwerkservices of e-mail."
+   },
+   "sharebutton_cant_share": {
+      "message": "Deze pagina kan niet worden gedeeld. De pagina is mogelijk beveiligd of niet openbaar toegankelijk."
+   },
+   "sharebutton_extension_description": {
+      "message": "Gebruik de extensie Share om webpagina's te delen via uw sociale netwerken, e-mail en blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Deze pagina delen met vrienden via $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Laden..."
+   },
+   "sharebutton_more_items": {
+      "message": "Meer..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Meer services weergeven in dit menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Het Open Share Icon is beschikbaar op \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E en is gelicentieerd via een Creative Commons-\u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicentie\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Kies de services die u in het menu wilt weergeven."
+   },
+   "sharebutton_options_clear": {
+      "message": "Standaardinstellingen herstellen"
+   },
+   "sharebutton_options_item": {
+      "message": "Opties"
+   },
+   "sharebutton_options_title": {
+      "message": "Opties voor Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "De pagina met opties weergeven waarop de extensie kan worden geconfigureerd"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Sluiten"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Meer services weergeven"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EWaarschuwing:\u003C/b\u003E de extensie Google Share Button geeft maximaal $1 van de door u geselecteerde services weer.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Deze pagina delen met:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Gedeeld met Google Share Button"
+   }
+}

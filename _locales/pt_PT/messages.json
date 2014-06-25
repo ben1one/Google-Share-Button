@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Partilhe esta p\u00E1gina com os amigos utilizando os servi\u00E7os das redes sociais ou o e-mail."
+   },
+   "sharebutton_cant_share": {
+      "message": "N\u00E3o \u00E9 poss\u00EDvel partilhar esta p\u00E1gina. Pode tratar-se de uma p\u00E1gina protegida ou de uma p\u00E1gina que n\u00E3o se encontra acess\u00EDvel ao p\u00FAblico."
+   },
+   "sharebutton_extension_description": {
+      "message": "Utilize a extens\u00E3o Partilha para partilhar p\u00E1ginas Web atrav\u00E9s de redes sociais, e-mail e blogues."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Partilhar esta p\u00E1gina com amigos utilizando $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "A carregar..."
+   },
+   "sharebutton_more_items": {
+      "message": "Mais..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Mostrar mais servi\u00E7os neste menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "O Open Share Icon est\u00E1 dispon\u00EDvel em \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E e est\u00E1 licenciado ao abrigo de uma \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\"\u003Elicen\u00E7a\u003C/a\u003E da Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Escolha os servi\u00E7os que pretende visualizar no menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Repor predefini\u00E7\u00F5es"
+   },
+   "sharebutton_options_item": {
+      "message": "Op\u00E7\u00F5es"
+   },
+   "sharebutton_options_title": {
+      "message": "Op\u00E7\u00F5es do Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Apresentar a p\u00E1gina Op\u00E7\u00F5es na qual a extens\u00E3o pode ser configurada"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Fechar"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Ver mais servi\u00E7os"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAviso:\u003C/b\u003E O Google Share Button mostra at\u00E9 $1 dos servi\u00E7os que seleccionou.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Partilhar esta p\u00E1gina utilizando:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Partilhado com o Google Share Button"
+   }
+}

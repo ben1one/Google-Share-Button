@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Permite\u0163i accesul prietenilor la aceast\u0103 pagin\u0103 utiliz\u00E2nd serviciile de re\u0163ele sociale sau e-mailul."
+   },
+   "sharebutton_cant_share": {
+      "message": "Accesul la aceast\u0103 pagin\u0103 nu poate fi permis. Poate fi vorba despre o pagin\u0103 securizat\u0103 sau despre o pagin\u0103 care nu este accesibil\u0103 publicului."
+   },
+   "sharebutton_extension_description": {
+      "message": "Utiliza\u0163i extensia Permite\u0163i accesul pentru a permite accesul la pagini web prin intermediul re\u0163elelor sociale, al e-mailului sau al blogurilor."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Permite\u0163i accesul prietenilor la aceast\u0103 pagin\u0103 utiliz\u00E2nd $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Se \u00EEncarc\u0103..."
+   },
+   "sharebutton_more_items": {
+      "message": "Mai mul\u0163i..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Afi\u015Fa\u0163i mai multe servicii \u00EEn acest meniu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Pictograma Open Share Icon este disponibil\u0103 la \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E \u015Fi este utilizat\u0103 sub o \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicen\u0163\u0103\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Alege\u0163i serviciile care dori\u0163i s\u0103 fie afi\u015Fate \u00EEn meniu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Reseta\u0163i la valorile prestabilite"
+   },
+   "sharebutton_options_item": {
+      "message": "Op\u0163iuni"
+   },
+   "sharebutton_options_title": {
+      "message": "Op\u0163iuni pentru Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Afi\u015Fa\u0163i pagina Op\u0163iuni, unde pute\u0163i configura extensia"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "\u00CEnchide\u0163i"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Afi\u015Fa\u0163i mai multe servicii"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAvertisment:\u003C/b\u003E Google Share Button afi\u015Feaz\u0103 p\u00E2n\u0103 la $1 dintre serviciile selectate de dvs.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Permite\u0163i accesul la aceast\u0103 pagin\u0103 utiliz\u00E2nd:"
+   },
+   "sharebutton_shared_with": {
+      "message": "- Distribuit prin Google Share Button"
+   }
+}

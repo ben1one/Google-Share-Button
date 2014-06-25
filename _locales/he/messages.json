@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "\u05E9\u05EA\u05E3 \u05D3\u05E3 \u05D6\u05D4 \u05E2\u05DD \u05D7\u05D1\u05E8\u05D9\u05DD \u05D1\u05D0\u05DE\u05E6\u05E2\u05D5\u05EA \u05E9\u05D9\u05E8\u05D5\u05EA\u05D9 \u05E8\u05E9\u05EA \u05D7\u05D1\u05E8\u05EA\u05D9\u05EA \u05D0\u05D5 \u05D3\u05D5\u05D0\"\u05DC."
+   },
+   "sharebutton_cant_share": {
+      "message": "\u05DC\u05D0 \u05E0\u05D9\u05EA\u05DF \u05DC\u05E9\u05EA\u05E3 \u05D3\u05E3 \u05D6\u05D4. \u05D9\u05D9\u05EA\u05DB\u05DF \u05E9\u05D6\u05D4\u05D5 \u05D3\u05E3 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7 \u05D0\u05D5 \u05D3\u05E3 \u05E9\u05DC\u05E6\u05D9\u05D1\u05D5\u05E8 \u05D0\u05D9\u05DF \u05D2\u05D9\u05E9\u05D4 \u05D0\u05DC\u05D9\u05D5."
+   },
+   "sharebutton_extension_description": {
+      "message": "\u05D4\u05E9\u05EA\u05DE\u05E9 \u05D1\u05EA\u05D5\u05E1\u05E4\u05EA Share \u05DB\u05D3\u05D9 \u05DC\u05E9\u05EA\u05E3 \u05D3\u05E4\u05D9 \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D1\u05D0\u05DE\u05E6\u05E2\u05D5\u05EA \u05D4\u05E8\u05E9\u05EA\u05D5\u05EA \u05D4\u05D7\u05D1\u05E8\u05EA\u05D9\u05D5\u05EA, \u05D4\u05D3\u05D5\u05D0\"\u05DC \u05D5\u05D4\u05D1\u05DC\u05D5\u05D2\u05D9\u05DD \u05E9\u05DC\u05DA."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "\u05E9\u05EA\u05E3 \u05D3\u05E3 \u05D6\u05D4 \u05E2\u05DD \u05D7\u05D1\u05E8\u05D9\u05DD \u05D1\u05D0\u05DE\u05E6\u05E2\u05D5\u05EA $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "\u05D8\u05D5\u05E2\u05DF..."
+   },
+   "sharebutton_more_items": {
+      "message": "\u05E2\u05D5\u05D3..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "\u05D4\u05E6\u05D2 \u05E9\u05D9\u05E8\u05D5\u05EA\u05D9\u05DD \u05E0\u05D5\u05E1\u05E4\u05D9\u05DD \u05D1\u05EA\u05E4\u05E8\u05D9\u05D8 \u05D6\u05D4"
+   },
+   "sharebutton_options_attribution": {
+      "message": "\u05D4\u05E1\u05DE\u05DC Open Share Icon \u05D6\u05DE\u05D9\u05DF \u05D1\u05DB\u05EA\u05D5\u05D1\u05EA \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E \u05D5\u05D4\u05D5\u05D0 \u05DE\u05D5\u05E8\u05E9\u05D4 \u05EA\u05D7\u05EA \u05E8\u05E9\u05D9\u05D5\u05DFCreative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicense\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "\u05D1\u05D7\u05E8 \u05D0\u05EA \u05D4\u05E9\u05D9\u05E8\u05D5\u05EA\u05D9\u05DD \u05E9\u05D1\u05E8\u05E6\u05D5\u05E0\u05DA \u05DC\u05D4\u05E6\u05D9\u05D2 \u05D1\u05EA\u05E4\u05E8\u05D9\u05D8."
+   },
+   "sharebutton_options_clear": {
+      "message": "\u05D0\u05E4\u05E1 \u05DC\u05D4\u05D2\u05D3\u05E8\u05D5\u05EA \u05D1\u05E8\u05D9\u05E8\u05EA \u05DE\u05D7\u05D3\u05DC"
+   },
+   "sharebutton_options_item": {
+      "message": "\u05D0\u05E4\u05E9\u05E8\u05D5\u05D9\u05D5\u05EA"
+   },
+   "sharebutton_options_title": {
+      "message": "\u05D0\u05E4\u05E9\u05E8\u05D5\u05D9\u05D5\u05EA Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "\u05D4\u05D3\u05E3 '\u05D0\u05E4\u05E9\u05E8\u05D5\u05D9\u05D5\u05EA \u05EA\u05E6\u05D5\u05D2\u05D4' \u05E9\u05D1\u05D5 \u05E0\u05D9\u05EA\u05DF \u05DC\u05D4\u05D2\u05D3\u05D9\u05E8 \u05D0\u05EA \u05EA\u05E6\u05D5\u05E8\u05EA \u05D4\u05EA\u05D5\u05E1\u05E4\u05EA"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "\u05E1\u05D2\u05D5\u05E8"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "\u05D4\u05E6\u05D2 \u05E9\u05D9\u05E8\u05D5\u05EA\u05D9\u05DD \u05E0\u05D5\u05E1\u05E4\u05D9\u05DD"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003E\u05D0\u05D6\u05D4\u05E8\u05D4:\u003C/b\u003E Google Share Button \u05DE\u05E6\u05D9\u05D2 \u05E2\u05D3 $1 \u05DE\u05D4\u05E9\u05D9\u05E8\u05D5\u05EA\u05D9\u05DD \u05E9\u05D1\u05D7\u05E8\u05EA.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "\u05E9\u05EA\u05E3 \u05D3\u05E3 \u05D6\u05D4 \u05D1\u05D0\u05DE\u05E6\u05E2\u05D5\u05EA:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- \u05E9\u05D5\u05EA\u05E3 \u05D1\u05D0\u05DE\u05E6\u05E2\u05D5\u05EA \u05DC\u05D7\u05E6\u05DF Google Share"
+   }
+}

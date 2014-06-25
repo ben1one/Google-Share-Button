@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Permet compartir aquesta p\u00E0gina amb els amics mitjan\u00E7ant els serveis de xarxes socials o el correu electr\u00F2nic."
+   },
+   "sharebutton_cant_share": {
+      "message": "Aquesta p\u00E0gina no es pot compartir. \u00C9s possible que es tracti d'una p\u00E0gina segura o b\u00E9 no accessible al p\u00FAblic."
+   },
+   "sharebutton_extension_description": {
+      "message": "Utilitzeu l'extensi\u00F3 d'\u00DAs compartit per compartir p\u00E0gines web mitjan\u00E7ant les xarxes socials, el correu electr\u00F2nic i els blocs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Bot\u00F3 d'\u00FAs compartit de Google"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Compartiu aquesta p\u00E0gina amb amics mitjan\u00E7ant $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "S'est\u00E0 carregant..."
+   },
+   "sharebutton_more_items": {
+      "message": "M\u00E9s..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Mostra m\u00E9s serveis en aquest men\u00FA"
+   },
+   "sharebutton_options_attribution": {
+      "message": "La icona Open Share est\u00E0 disponible a \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E i est\u00E0 protegida per una \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Ellic\u00E8ncia\u003C/a\u003E de Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Trieu els serveis que us agradaria visualitzar al men\u00FA."
+   },
+   "sharebutton_options_clear": {
+      "message": "Restableix als valors predeterminats"
+   },
+   "sharebutton_options_item": {
+      "message": "Opcions"
+   },
+   "sharebutton_options_title": {
+      "message": "Opcions del bot\u00F3 d'\u00FAs compartit de Google"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "P\u00E0gina d'Opcions de visualitzaci\u00F3, on podeu configurar l'extensi\u00F3"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Tanca"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Visualitza m\u00E9s serveis"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAdvertiment:\u003C/b\u003E el bot\u00F3 d'\u00FAs compartit de Google mostra un m\u00E0xim de $1 dels serveis que heu seleccionat.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Compartiu aquesta p\u00E0gina mitjan\u00E7ant:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Compartit amb el bot\u00F3 d'\u00FAs compartit de Google"
+   }
+}

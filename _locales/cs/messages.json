@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Sd\u00EDlet tuto str\u00E1nku s p\u0159\u00E1teli prost\u0159ednictv\u00EDm slu\u017Eeb soci\u00E1ln\u00EDch s\u00EDt\u00ED nebo e-mailu."
+   },
+   "sharebutton_cant_share": {
+      "message": "Tuto str\u00E1nku nelze sd\u00EDlet. M\u016F\u017Ee j\u00EDt o zabezpe\u010Denou str\u00E1nku nebo str\u00E1nka nemus\u00ED b\u00FDt p\u0159\u00EDstupn\u00E1 ve\u0159ejnosti."
+   },
+   "sharebutton_extension_description": {
+      "message": "Roz\u0161\u00ED\u0159en\u00ED s n\u00E1zvem Sd\u00EDlen\u00ED umo\u017E\u0148uje sd\u00EDlet weby pomoc\u00ED soci\u00E1ln\u00EDch s\u00EDt\u00ED, e-mailu a blog\u016F."
+   },
+   "sharebutton_extension_name": {
+      "message": "Tla\u010D\u00EDtko sd\u00EDlen\u00ED Google"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Sd\u00EDlet tuto str\u00E1nku s p\u0159\u00E1teli ve slu\u017Eb\u011B $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Na\u010D\u00EDt\u00E1n\u00ED..."
+   },
+   "sharebutton_more_items": {
+      "message": "Dal\u0161\u00ED..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Zobrazit v t\u00E9to nab\u00EDdce dal\u0161\u00ED slu\u017Eby"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Ikona Open Share Icon je k dispozici na str\u00E1nce \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E a je poskytov\u00E1na na z\u00E1klad\u011B \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\"\u003Elicence\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Zvolte slu\u017Eby, kter\u00E9 chcete zobrazit v nab\u00EDdce."
+   },
+   "sharebutton_options_clear": {
+      "message": "V\u00FDchoz\u00ED nastaven\u00ED"
+   },
+   "sharebutton_options_item": {
+      "message": "Mo\u017Enosti"
+   },
+   "sharebutton_options_title": {
+      "message": "Mo\u017Enosti Tla\u010D\u00EDtka sd\u00EDlen\u00ED Google"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Str\u00E1nka Mo\u017Enosti zobrazen\u00ED, kde lze roz\u0161\u00ED\u0159en\u00ED konfigurovat"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Zav\u0159\u00EDt"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Zobrazit dal\u0161\u00ED slu\u017Eby"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EUpozorn\u011Bn\u00ED:\u003C/b\u003E Tla\u010D\u00EDtko sd\u00EDlen\u00ED Google zobraz\u00ED a\u017E $1 slu\u017Eeb, kter\u00E9 jste vybrali.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Sd\u00EDlet tuto str\u00E1nku pomoc\u00ED:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Sd\u00EDleno pomoc\u00ED Tla\u010D\u00EDtka sd\u00EDlen\u00ED Google"
+   }
+}

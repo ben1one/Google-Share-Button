@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Chia s\u1EBB trang n\u00E0y v\u1EDBi b\u1EA1n b\u00E8 b\u1EB1ng c\u00E1c d\u1ECBch v\u1EE5 m\u1EA1ng x\u00E3 h\u1ED9i ho\u1EB7c email."
+   },
+   "sharebutton_cant_share": {
+      "message": "Kh\u00F4ng th\u1EC3 chia s\u1EBB trang n\u00E0y. \u0110\u00E2y c\u00F3 th\u1EC3 l\u00E0 m\u1ED9t trang b\u1EA3o m\u1EADt ho\u1EB7c trang kh\u00F4ng th\u1EC3 truy c\u1EADp c\u00F4ng khai."
+   },
+   "sharebutton_extension_description": {
+      "message": "S\u1EED d\u1EE5ng ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng Chia s\u1EBB \u0111\u1EC3 chia s\u1EBB trang web qua c\u00E1c m\u1EA1ng x\u00E3 h\u1ED9i, email v\u00E0 blog c\u1EE7a b\u1EA1n."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Chia s\u1EBB trang n\u00E0y v\u1EDBi b\u1EA1n b\u00E8 b\u1EB1ng $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "\u0110ang t\u1EA3i..."
+   },
+   "sharebutton_more_items": {
+      "message": "Th\u00EAm..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Hi\u1EC3n th\u1ECB c\u00E1c d\u1ECBch v\u1EE5 kh\u00E1c trong tr\u00ECnh \u0111\u01A1n n\u00E0y"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon hi\u1EC7n c\u00F3 t\u1EA1i \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E v\u00E0 \u0111\u01B0\u1EE3c c\u1EA5p ph\u00E9p theo \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Egi\u1EA5y ph\u00E9p\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Ch\u1ECDn c\u00E1c d\u1ECBch v\u1EE5 b\u1EA1n mu\u1ED1n \u0111\u01B0\u1EE3c hi\u1EC3n th\u1ECB trong tr\u00ECnh \u0111\u01A1n."
+   },
+   "sharebutton_options_clear": {
+      "message": "\u0110\u1EB7t l\u1EA1i v\u1EC1 m\u1EB7c \u0111\u1ECBnh"
+   },
+   "sharebutton_options_item": {
+      "message": "T\u00F9y ch\u1ECDn"
+   },
+   "sharebutton_options_title": {
+      "message": "T\u00F9y ch\u1ECDn Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Hi\u1EC3n th\u1ECB trang T\u00F9y ch\u1ECDn n\u01A1i b\u1EA1n c\u00F3 th\u1EC3 \u0111\u1ECBnh c\u1EA5u h\u00ECnh ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "\u0110\u00F3ng"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Xem d\u1ECBch v\u1EE5 kh\u00E1c"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EC\u1EA3nh b\u00E1o:\u003C/b\u003E Google Share Button hi\u1EC3n th\u1ECB t\u1ED1i \u0111a $1 trong t\u1ED5ng s\u1ED1 c\u00E1c d\u1ECBch v\u1EE5 b\u1EA1n \u0111\u00E3 ch\u1ECDn.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Chia s\u1EBB trang n\u00E0y b\u1EB1ng:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- \u0110\u01B0\u1EE3c chia s\u1EBB b\u1EB1ng Google Share Button"
+   }
+}

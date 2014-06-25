@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Delite to stran s prijatelji v storitvah dru\u017Eabnih omre\u017Eij ali z e-po\u0161to."
+   },
+   "sharebutton_cant_share": {
+      "message": "Te strani ni mogo\u010De dati v skupno rabo. Lahko gre za varno stran ali tako, ki ni javno dostopna."
+   },
+   "sharebutton_extension_description": {
+      "message": "Uporabite raz\u0161iritev za skupno rabo \u00BBShare\u00AB, s katero lahko spletne strani delite z drugimi prek dru\u017Eabnih omre\u017Eij, e-po\u0161te ali spletnih dnevnikov."
+   },
+   "sharebutton_extension_name": {
+      "message": "Googlov gumb za skupno rabo"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Delite to stran s prijatelji prek storitve $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Nalaganje ..."
+   },
+   "sharebutton_more_items": {
+      "message": "Ve\u010D ..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Prika\u017Ee ve\u010D storitev v tem meniju"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Komplet Open Share Icon je na voljo na \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E in je na voljo na podlagi \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicence\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Izberite storitve, ki jih \u017Eelite prikazati v meniju."
+   },
+   "sharebutton_options_clear": {
+      "message": "Ponastavi na privzete vrednosti"
+   },
+   "sharebutton_options_item": {
+      "message": "Mo\u017Enosti"
+   },
+   "sharebutton_options_title": {
+      "message": "Mo\u017Enosti Googlovega gumba za skupno rabo"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Stran \u00BBMo\u017Enosti prikaza\u00AB, kjer je mogo\u010De nastaviti raz\u0161iritev"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Zapri"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Ve\u010D storitev"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EOpozorilo:\u003C/b\u003E Googlov gumb za skupno rabo prika\u017Ee do $1 storitev, ki ste jih izbrali.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Skupna raba te strani z:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 dano v skupno rabo z Googlovim gumbom za skupno rabo"
+   }
+}

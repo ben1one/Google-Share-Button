@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Partager cette page avec des amis, que ce soit par e-mail ou via des services de r\u00E9seau social."
+   },
+   "sharebutton_cant_share": {
+      "message": "Impossible de partager cette page. Il s'agit peut-\u00EAtre d'une page s\u00E9curis\u00E9e qui n'est pas accessible au public."
+   },
+   "sharebutton_extension_description": {
+      "message": "Utilisez l'extension Partage pour mettre en commun des pages Web, que ce soit par e-mail ou via des r\u00E9seaux sociaux ou des blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Bouton Google\u00A0Partage"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Partager cette page avec des amis via $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Chargement..."
+   },
+   "sharebutton_more_items": {
+      "message": "Autres..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Afficher d'autres services dans ce menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Le logo Open Share Icon est disponible sur le site \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E et propos\u00E9 sous \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicence\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "S\u00E9lectionnez les services \u00E0 afficher dans le menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "R\u00E9tablir la configuration par d\u00E9faut"
+   },
+   "sharebutton_options_item": {
+      "message": "Options"
+   },
+   "sharebutton_options_title": {
+      "message": "Options du bouton Google\u00A0Share"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Afficher la page Options, qui permet de configurer l'extension"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Fermer"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Afficher plus de services"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAvertissement\u00A0:\u003C/b\u003E Le bouton Google\u00A0Share propose jusqu'\u00E0 $1 des services que vous avez s\u00E9lectionn\u00E9s.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Partager cette page comme suit\u00A0:"
+   },
+   "sharebutton_shared_with": {
+      "message": "- partag\u00E9 via le bouton Google\u00A0Share"
+   }
+}

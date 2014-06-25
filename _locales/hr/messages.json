@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Dijelite ovu web-stranicu s prijateljima pomo\u0107u usluga dru\u0161tvene mre\u017Ee ili e-po\u0161te."
+   },
+   "sharebutton_cant_share": {
+      "message": "Ova se stranica ne mo\u017Ee dijeliti. Mo\u017Eda je rije\u010D o sigurnoj stranici koja nije javno dostupna."
+   },
+   "sharebutton_extension_description": {
+      "message": "Pomo\u0107u pro\u0161irenja Dijeljenje dijelite web-stranice putem dru\u0161tvenih mre\u017Ea, e-po\u0161te i blogova."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Gumb dijeljenja"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Dijelite ovu stranicu s prijateljima putem usluge $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "U\u010Ditavanje..."
+   },
+   "sharebutton_more_items": {
+      "message": "Vi\u0161e..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Prika\u017Ei vi\u0161e usluga na ovom izborniku"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon dostupna je na \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E i licencirana je \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicencom\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Odaberite usluge koje \u017Eelite imati prikazane na izborniku."
+   },
+   "sharebutton_options_clear": {
+      "message": "Vrati na zadane postavke"
+   },
+   "sharebutton_options_item": {
+      "message": "Opcije"
+   },
+   "sharebutton_options_title": {
+      "message": "Opcije Google Gumba dijeljenja"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Prika\u017Ei stranicu Opcije prikaza ako je pro\u0161irenje mogu\u0107e konfigurirati"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Zatvori"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Prika\u017Ei vi\u0161e usluga"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EUpozorenje:\u003C/b\u003E Google Gumb dijeljenja prikazuje najvi\u0161e sljede\u0107i broj odabranih usluga: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Dijelite ovu stranicu koriste\u0107i:"
+   },
+   "sharebutton_shared_with": {
+      "message": "- Dijeljeno pomo\u0107u Google Gumba dijeljenja"
+   }
+}

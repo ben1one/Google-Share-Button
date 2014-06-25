@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Bagi laman ini dengan teman menggunakan layanan jaringan sosial atau email."
+   },
+   "sharebutton_cant_share": {
+      "message": "Laman ini tidak dapat dibagi. Mungkin ini laman aman atau laman yang tidak dapat diakses oleh publik."
+   },
+   "sharebutton_extension_description": {
+      "message": "Gunakan ekstensi Berbagi untuk berbagi laman web via jaringan sosial, email, dan blog Anda."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Bagi laman ini dengan teman menggunakan $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Memuat..."
+   },
+   "sharebutton_more_items": {
+      "message": "Lainnya..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Tampilkan layanan lainnya dalam menu ini"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon tersedia di  \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E dan dilisensi berdasarkan \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elisensi\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Pilih layanan yang ingin ditampilkan di menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Setel ulang ke bawaan"
+   },
+   "sharebutton_options_item": {
+      "message": "Opsi"
+   },
+   "sharebutton_options_title": {
+      "message": "Opsi Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Tampilkan laman Opsi tempat ekstensi dapat dikonfigurasi"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Tutup"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Lihat layanan lainnya"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EPeringatan:\u003C/b\u003E Google Share Button menampilkan hingga $1 layanan yang telah dipilih.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Bagi laman ini dengan:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Dibagi dengan Google Share Button"
+   }
+}

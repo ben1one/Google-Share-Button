@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Udost\u0119pnij t\u0119 stron\u0119 znajomym za pomoc\u0105 portali spo\u0142eczno\u015Bciowych lub poczty e-mail."
+   },
+   "sharebutton_cant_share": {
+      "message": "Nie mo\u017Cna udost\u0119pni\u0107 tej strony. By\u0107 mo\u017Ce jest to strona zabezpieczona lub niedost\u0119pna dla u\u017Cytkownik\u00F3w."
+   },
+   "sharebutton_extension_description": {
+      "message": "Udost\u0119pniaj strony internetowe za po\u015Brednictwem sieci spo\u0142eczno\u015Bciowych, wiadomo\u015Bci e-mail i blog\u00F3w, korzystaj\u0105c z rozszerzenia udost\u0119pniania."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Udost\u0119pnij t\u0119 stron\u0119 znajomym za pomoc\u0105 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Wczytywanie..."
+   },
+   "sharebutton_more_items": {
+      "message": "Wi\u0119cej..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Wy\u015Bwietlaj wi\u0119cej us\u0142ug w tym menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Ikona Open Share Icon jest dost\u0119pna na stronie \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E i zosta\u0142a obj\u0119ta \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicencj\u0105\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Wybierz us\u0142ugi, kt\u00F3re chcesz wy\u015Bwietla\u0107 w menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Przywr\u00F3\u0107 ustawienia domy\u015Blne"
+   },
+   "sharebutton_options_item": {
+      "message": "Opcje"
+   },
+   "sharebutton_options_title": {
+      "message": "Opcje rozszerzenia Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Wy\u015Bwietla stron\u0119 Opcje, na kt\u00F3rej mo\u017Cna skonfigurowa\u0107 to rozszerzenie"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Zamknij"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Wy\u015Bwietl wi\u0119cej us\u0142ug"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EUwaga:\u003C/b\u003E rozszerzenie Google Share Button umo\u017Cliwia wy\u015Bwietlanie maksymalnie $1 wybranych us\u0142ug.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Udost\u0119pnij t\u0119 stron\u0119 za pomoc\u0105:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Udost\u0119pniono za pomoc\u0105 rozszerzenia Google Share Button"
+   }
+}

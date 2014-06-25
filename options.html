@@ -1,0 +1,60 @@
+<!--
+  Copyright 2010 Google Inc. All Rights Reserved.
+
+  Author: vadimb@google.com (Vadim Berman)
+
+  Options page for Google Share Button Chrome extension.
+-->
+
+
+<!DOCTYPE html>
+<html>
+<head><title></title></head>
+
+<script src="options_with_deps.js"></script>
+
+<body>
+
+<div id="body" class="">
+<h1>
+  <span id="header"></span>
+</h1>
+
+<table id="primary_providers">
+  <tr>
+    <td id="choose_text"></td>
+  </tr>
+  <tr>
+    <td class="providerCell"></td>
+  </tr>
+</table>
+
+<div id="view_more_section">
+  <p>
+    <div id="view_more_link">
+      <a href="javascript:void(0)" class="moreLink">
+        <img id="view_more_img" src="blank.gif" />
+        <span id="view_more_text" class="moreText"></span>
+      </a>
+    </div>
+  </p>
+
+  <div id="secondary_providers_section" class="shareDiv">
+    <table id="secondary_providers">
+      <tr><td></td></tr>
+    </table>
+  </div>
+</div>
+
+
+<p>
+  <input id="clear_history" type="button" onclick="_clearHistory()" />
+</p>
+
+<p>
+  <span id='attribution'></span>
+</p>
+</div>
+
+</body>
+</html>

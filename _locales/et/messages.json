@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Jagage seda lehte s\u00F5pradega suhtlusv\u00F5rgustiku teenuste v\u00F5i e-posti kaudu."
+   },
+   "sharebutton_cant_share": {
+      "message": "Seda lehte ei saa jagada. Tegu v\u00F5ib olla turvatud lehega v\u00F5i avalikkusele k\u00E4ttesaamatu lehega."
+   },
+   "sharebutton_extension_description": {
+      "message": "Kasutage suhtlusv\u00F5rkude, meilide ja blogide kaudu veebilehtede jagamiseks laiendust Jagamine."
+   },
+   "sharebutton_extension_name": {
+      "message": "Nupp Google'i jagamine"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Jagage seda lehte teiste teistega, kasutades $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Laadimine..."
+   },
+   "sharebutton_more_items": {
+      "message": "Rohkem..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Kuva selles men\u00FC\u00FCs veel teenuseid"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon on saadaval aadressil \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E ning see kuulub Creative Commonsi \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\"\u003Elitsentsi\u003C/a\u003E alla."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Valige teenused, mida soovite men\u00FC\u00FCs kuvada."
+   },
+   "sharebutton_options_clear": {
+      "message": "Taasta vaikeseaded"
+   },
+   "sharebutton_options_item": {
+      "message": "Valikud"
+   },
+   "sharebutton_options_title": {
+      "message": "Google'i jagamise nupu valikud"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Kuvab lehte Valikud, kus saab laiendusi konfigureerida"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Sule"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Kuva rohkem teenuseid"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EHoiatus:\u003C/b\u003E Google'i jagamise nupp kuvatakse kuni $1 teie valitud teenuse juures.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Jaga seda lehte, kasutades:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- jagatud Google'i jagamise nupuga"
+   }
+}

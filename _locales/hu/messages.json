@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Ossza meg ezt az oldalt ismer\u0151seivel e-mailben vagy k\u00F6z\u00F6ss\u00E9gi h\u00E1l\u00F3zatokon."
+   },
+   "sharebutton_cant_share": {
+      "message": "Ez az oldal nem oszthat\u00F3 meg. Lehet, hogy biztons\u00E1gos oldal, vagy olyan, amely nyilv\u00E1nosan nem hozz\u00E1f\u00E9rhet\u0151."
+   },
+   "sharebutton_extension_description": {
+      "message": "A Megoszt\u00E1s b\u0151v\u00EDtm\u00E9ny seg\u00EDts\u00E9g\u00E9vel k\u00F6z\u00F6ss\u00E9gi h\u00E1l\u00F3zatain, blogjain, illetve e-mailben is megoszthat weboldalakat."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Megoszt\u00E1s gomb"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Oldal megoszt\u00E1sa ismer\u0151seivel a(z) $1 haszn\u00E1lat\u00E1val",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Bet\u00F6lt\u00E9s\u2026"
+   },
+   "sharebutton_more_items": {
+      "message": "Tov\u00E1bbiak..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Tov\u00E1bbi szolg\u00E1ltat\u00E1sok megjelen\u00EDt\u00E9se ebben a men\u00FCben"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Az Open Share Icon a \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E webhelyen \u00E9rhet\u0151 el, licencel\u00E9se pedig a Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicence\u003C/a\u003E alapj\u00E1n t\u00F6rt\u00E9nik."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "V\u00E1lassza ki azokat a szolg\u00E1ltat\u00E1sokat, amelyeket szeretne megjelen\u00EDteni a men\u00FCben."
+   },
+   "sharebutton_options_clear": {
+      "message": "Vissza\u00E1ll\u00EDt\u00E1s az alap\u00E9rt\u00E9kekre"
+   },
+   "sharebutton_options_item": {
+      "message": "Be\u00E1ll\u00EDt\u00E1sok"
+   },
+   "sharebutton_options_title": {
+      "message": "A Google Megoszt\u00E1s gomb be\u00E1ll\u00EDt\u00E1sai"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "A Be\u00E1ll\u00EDt\u00E1sok oldal megjelen\u00EDt\u00E9se a konfigur\u00E1lhat\u00F3 b\u0151v\u00EDtm\u00E9nyek eset\u00E9ben"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Bez\u00E1r\u00E1s"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Tov\u00E1bbi szolg\u00E1ltat\u00E1sok megtekint\u00E9se"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EFigyelmeztet\u00E9s:\u003C/b\u003E A Google Megoszt\u00E1s gomb maximum $1 kiv\u00E1lasztott szolg\u00E1ltat\u00E1st jelen\u00EDt meg.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Oldal megoszt\u00E1sa a k\u00F6vetkez\u0151vel:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Megosztva a Google Megoszt\u00E1s gombbal"
+   }
+}

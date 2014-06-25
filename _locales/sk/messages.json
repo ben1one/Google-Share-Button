@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Zdie\u013Ea\u0165 t\u00FAto str\u00E1nku s priate\u013Emi prostredn\u00EDctvom slu\u017Eieb soci\u00E1lnych siet\u00ED alebo e-mailu."
+   },
+   "sharebutton_cant_share": {
+      "message": "Str\u00E1nku nie je mo\u017En\u00E9 zdie\u013Ea\u0165. M\u00F4\u017Ee by\u0165 zabezpe\u010Den\u00E1 alebo nepr\u00EDstupn\u00E1 verejnosti."
+   },
+   "sharebutton_extension_description": {
+      "message": "Roz\u0161\u00EDrenie s n\u00E1zvom Zdie\u013Eanie umo\u017E\u0148uje zdie\u013Ea\u0165 webov\u00E9 str\u00E1nky prostredn\u00EDctvom soci\u00E1lnych siet\u00ED, e-mailu alebo blogov."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Zdie\u013Ea\u0165 str\u00E1nku s priate\u013Emi pomocou poskytovate\u013Ea: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Prebieha na\u010D\u00EDtanie..."
+   },
+   "sharebutton_more_items": {
+      "message": "Viac..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Zobrazi\u0165 v ponuke viac slu\u017Eieb"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Ikona Open Share Icon je k dispoz\u00EDcii na str\u00E1nke \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E a vz\u0165ahuje sa na \u0148u \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicencia\u003C/a\u003E Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Zvo\u013Ete slu\u017Eby, ktor\u00E9 sa maj\u00FA zobrazi\u0165 v ponuke."
+   },
+   "sharebutton_options_clear": {
+      "message": "Obnovi\u0165 na predvolen\u00E9 nastavenia"
+   },
+   "sharebutton_options_item": {
+      "message": "Mo\u017Enosti"
+   },
+   "sharebutton_options_title": {
+      "message": "Mo\u017Enosti roz\u0161\u00EDrenia Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Str\u00E1nka Mo\u017Enosti zobrazenia, na ktorej sa d\u00E1 roz\u0161\u00EDrenie nakonfigurova\u0165."
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Zatvori\u0165"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Zobrazi\u0165 viac slu\u017Eieb"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EUpozornenie:\u003C/b\u003E Tla\u010Didlo Google Share Button zobraz\u00ED slu\u017Eby, ktor\u00E9 ste vybrali, a\u017E do po\u010Dtu $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Zdie\u013Ea\u0165 str\u00E1nku pomocou:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Zdie\u013Ean\u00E9 prostredn\u00EDctvom roz\u0161\u00EDrenia Google Share Button"
+   }
+}

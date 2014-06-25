@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "\uC18C\uC15C \uB124\uD2B8\uC6CC\uD0B9 \uC11C\uBE44\uC2A4 \uB610\uB294 \uC774\uBA54\uC77C\uC744 \uC0AC\uC6A9\uD558\uC5EC \uD398\uC774\uC9C0\uB97C \uCE5C\uAD6C\uC640 \uACF5\uC720\uD569\uB2C8\uB2E4."
+   },
+   "sharebutton_cant_share": {
+      "message": "\uD398\uC774\uC9C0\uB97C \uACF5\uC720\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4. \uBCF4\uC548 \uD398\uC774\uC9C0\uC774\uAC70\uB098 \uC77C\uBC18 \uC0AC\uC6A9\uC790\uAC00 \uC561\uC138\uC2A4\uD560 \uC218 \uC5C6\uB294 \uD398\uC774\uC9C0\uC785\uB2C8\uB2E4."
+   },
+   "sharebutton_extension_description": {
+      "message": "\uACF5\uC720 \uD655\uC7A5 \uD504\uB85C\uADF8\uB7A8\uC744 \uC0AC\uC6A9\uD558\uBA74 \uC18C\uC15C \uB124\uD2B8\uC6CC\uD06C\uB098 \uC774\uBA54\uC77C, \uBE14\uB85C\uADF8\uB97C \uD1B5\uD574 \uC6F9\uD398\uC774\uC9C0\uB97C \uACF5\uC720\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google \uACF5\uC720 \uBC84\uD2BC"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "$1\uC744(\uB97C) \uC0AC\uC6A9\uD558\uC5EC \uD398\uC774\uC9C0\uB97C \uCE5C\uAD6C\uC640 \uACF5\uC720",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "\uB85C\uB4DC \uC911..."
+   },
+   "sharebutton_more_items": {
+      "message": "\uB354\uBCF4\uAE30..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "\uBA54\uB274\uC5D0 \uCD94\uAC00 \uC11C\uBE44\uC2A4 \uD45C\uC2DC"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon\uC740 \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E\uC5D0\uC11C \uC81C\uACF5\uB418\uBA70 \uD06C\uB9AC\uC5D0\uC774\uD2F0\uBE0C \uCEE4\uBA3C\uC988 \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003E\uB77C\uC774\uC13C\uC2A4\u003C/a\u003E\uC5D0 \uB530\uB77C \uC0AC\uC6A9\uC774 \uD5C8\uAC00\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "\uBA54\uB274\uC5D0 \uD45C\uC2DC\uD560 \uC11C\uBE44\uC2A4\uB97C \uC120\uD0DD\uD569\uB2C8\uB2E4."
+   },
+   "sharebutton_options_clear": {
+      "message": "\uAE30\uBCF8\uC124\uC815\uC73C\uB85C \uB3CC\uC544\uAC00\uAE30"
+   },
+   "sharebutton_options_item": {
+      "message": "\uC635\uC158"
+   },
+   "sharebutton_options_title": {
+      "message": "Google \uACF5\uC720 \uBC84\uD2BC \uC635\uC158"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "\uD655\uC7A5 \uD504\uB85C\uADF8\uB7A8\uC744 \uAD6C\uC131\uD560 \uC218 \uC788\uB294 \uC635\uC158 \uD398\uC774\uC9C0\uB97C \uD45C\uC2DC\uD569\uB2C8\uB2E4."
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "\uB2EB\uAE30"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "\uCD94\uAC00 \uC11C\uBE44\uC2A4 \uBCF4\uAE30"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003E\uACBD\uACE0:\u003C/b\u003E Google \uACF5\uC720 \uBC84\uD2BC\uC740 \uC120\uD0DD\uD55C \uC11C\uBE44\uC2A4\uB97C \uCD5C\uB300 $1\uAC1C\uAE4C\uC9C0 \uD45C\uC2DC\uD569\uB2C8\uB2E4.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "\uB2E4\uC74C\uC744 \uC0AC\uC6A9\uD558\uC5EC \uC774 \uD398\uC774\uC9C0 \uACF5\uC720:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Google \uACF5\uC720 \uBC84\uD2BC \uACF5\uC720"
+   }
+}

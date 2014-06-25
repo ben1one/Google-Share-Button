@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Bendrinkite \u0161\u012F puslap\u012F su draugais, naudodami vie\u0161ojo tinklo paslaugas ar el. pa\u0161t\u0105."
+   },
+   "sharebutton_cant_share": {
+      "message": "\u0160io puslapio negalima bendrinti. Tai gali b\u016Bti saugus puslapis ar puslapis, kurio negalima vie\u0161ai pasiekti."
+   },
+   "sharebutton_extension_description": {
+      "message": "Jei norite dalytis tinklalapiais naudodami vie\u0161uosius tinklus, el. pa\u0161t\u0105 ar tinklara\u0161\u010Dius, naudokite dalijimosi pl\u0117tin\u012F."
+   },
+   "sharebutton_extension_name": {
+      "message": "\u201EGoogle\u201C bendrinimo mygtukas"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Bendrinti \u0161\u012F puslap\u012F su draugais naudojant \u201E$1\u201C",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "\u012Ekeliama..."
+   },
+   "sharebutton_more_items": {
+      "message": "Daugiau..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "\u0160iame meniu rodyti daugiau paslaug\u0173"
+   },
+   "sharebutton_options_attribution": {
+      "message": "\u201EOpen Share Icon\u201C galima \u0161iuo adresu: \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E ir yra licencijuota pagal \u201ECreative Commons\u201C \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\"\u003Elicencij\u0105\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Pasirinkite paslaugas, kurias nor\u0117tum\u0117te pateikti meniu."
+   },
+   "sharebutton_options_clear": {
+      "message": "I\u0161 naujo nustatyti numatyt\u0105sias nuostatas"
+   },
+   "sharebutton_options_item": {
+      "message": "Parinktys"
+   },
+   "sharebutton_options_title": {
+      "message": "\u201EGoogle\u201C bendrinimo mygtuko parinktys"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Pateikti \u201EParink\u010Di\u0173\u201C puslap\u012F, kuriame galima konfig\u016Bruoti pl\u0117tin\u012F"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "U\u017Edaryti"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "\u017Di\u016Br\u0117ti daugiau paslaug\u0173"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003E\u012Esp\u0117jimas:\u003C/b\u003E \u201EGoogle\u201C bendrinimo mygtukas rodo iki $1 pasirinkt\u0173 paslaug\u0173.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Bendrinti \u0161\u012F puslap\u012F naudojant:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Bendrinamas su \u201EGoogle\u201C bendrinimo mygtuku"
+   }
+}

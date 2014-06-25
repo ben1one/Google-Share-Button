@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Del denne side med venner ved hj\u00E6lp af sociale netv\u00E6rkstjenester eller e-mail."
+   },
+   "sharebutton_cant_share": {
+      "message": "Denne side kan ikke deles. Den kan v\u00E6re en sikker side, der ikke er offentligt tilg\u00E6ngelig."
+   },
+   "sharebutton_extension_description": {
+      "message": "Brug udvidelsen Deleknap til at dele websider via sociale netv\u00E6rk, e-mail og blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Del denne side med dine venner med $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Indl\u00E6ser ..."
+   },
+   "sharebutton_more_items": {
+      "message": "Flere ..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Vis flere tjenester i denne menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon findes p\u00E5 \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E og er underlagt en Creative Commons\u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003E-licens\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "V\u00E6lg de tjenester, du gerne vil have vist i menuen."
+   },
+   "sharebutton_options_clear": {
+      "message": "Nulstil til standardindstillinger"
+   },
+   "sharebutton_options_item": {
+      "message": "Valgmuligheder"
+   },
+   "sharebutton_options_title": {
+      "message": "Indstillinger for Google Share Button"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Siden Visningsindstillinger, hvor udvidelsen kan konfigureres"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Luk"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Vis flere tjenester"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAdvarsel!\u003C/b\u003E Google Share Button viser op til $1 af de tjenester, du har valgt.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Del denne side ved hj\u00E6lp af:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Delt med Google Share Button"
+   }
+}

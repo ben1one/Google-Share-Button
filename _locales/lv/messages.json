@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Koplietojiet \u0161o lapu ar draugiem, izmantojot soci\u0101lo t\u012Bklu pakalpojumus vai e-pastu."
+   },
+   "sharebutton_cant_share": {
+      "message": "T\u0101 var b\u016Bt dro\u0161a vai publiski nepieejama lapa."
+   },
+   "sharebutton_extension_description": {
+      "message": "Izmantojiet\u00B7papla\u0161in\u0101jumu Kop\u012Bgot,\u00B7lai kop\u012Bgotu t\u012Bmek\u013Ca lapas, izmantojot\u00B7savus\u00B7soci\u0101los\u00B7t\u012Bklos,\u00B7e-pastu\u00B7un\u00B7emu\u0101rus."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Koplietot \u0161o lapu ar draugiem, izmantojot $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Notiek iel\u0101de..."
+   },
+   "sharebutton_more_items": {
+      "message": "V\u0113l..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Att\u0113lot vair\u0101k pakalpojumu \u0161aj\u0101 izv\u0113ln\u0113"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Ikona Open Share Icon ir pieejama vietn\u0113 \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E un ir licenc\u0113ta atbilsto\u0161i Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicencei\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Izv\u0113lieties pakalpojumus, kurus par\u0101d\u012Bt izv\u0113ln\u0113."
+   },
+   "sharebutton_options_clear": {
+      "message": "Atiestat\u012Bt noklus\u0113juma iestat\u012Bjumus"
+   },
+   "sharebutton_options_item": {
+      "message": "Opcijas"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button opcijas"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "R\u0101d\u012Bt lapu Opcijas, kur\u0101 var konfigur\u0113t papla\u0161in\u0101jumu"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Aizv\u0113rt"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Skat\u012Bt papildu pakalpojumus"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EBr\u012Bdin\u0101jums:\u003C/b\u003E Google Share Button att\u0113lo ne vair\u0101k k\u0101 $1\u00A0atlas\u012Btos pakalpojumus.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Koplietot \u0161o lapu, izmantojot:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2014 koplietots, izmantojot Google Share Button"
+   }
+}

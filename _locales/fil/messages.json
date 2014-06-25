@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Ibahagi ang pahinang ito sa mga kaibigang gumagamit ng serbisyo sa social networking o email."
+   },
+   "sharebutton_cant_share": {
+      "message": "Hindi maibabahagi ang pahinang ito. Maaaring secure na pahina ito o pahinang hindi maaaring ma-access ng publiko."
+   },
+   "sharebutton_extension_description": {
+      "message": "Gamitin ang extension na Ibahagi upang magbahagi ng mga webpage sa pamamagitan ng iyong mga social network, email at blog."
+   },
+   "sharebutton_extension_name": {
+      "message": "Pindutan sa Pagbabahagi ng Google"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Ibahagi ang pahinang ito sa mga kaibigan gamit ang $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Naglo-load..."
+   },
+   "sharebutton_more_items": {
+      "message": "Higit pa..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Magpakita ng marami pang mga serbisyo sa menu na ito"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Makikita ang Open Share Icon sa \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E at may lisensya sa ilalim ng Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicense\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Piliin ang mga serbisyong nais na ipakita sa menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Mag-reset sa mga default"
+   },
+   "sharebutton_options_item": {
+      "message": "Mga Pagpipilian"
+   },
+   "sharebutton_options_title": {
+      "message": "Mga Pagpipilian sa Pindutan sa Pagbabahagi ng Google"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Ipinapakita ang pahina ng Mga Pagpipilian kung saan maaaring maisaayos ang extension"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Isara"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Tumingin ng marami pang mga serbisyo"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EBabala:\u003C/b\u003E Nagpapakita ang Pindutan sa Pagbabahagi ng Google ng hanggang sa $1 sa mga serbisyong iyong pinili.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Ibahagi ang pahinang ito gamit ang:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Ibinahagi sa Pindutan sa Pagbabahagi ng Google"
+   }
+}

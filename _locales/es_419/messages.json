@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Comparte esta p\u00E1gina con amigos mediante los servicios de redes sociales o por correo electr\u00F3nico."
+   },
+   "sharebutton_cant_share": {
+      "message": "Esta p\u00E1gina no se puede compartir. Puede ser una p\u00E1gina segura o una p\u00E1gina a la que el p\u00FAblico no pueda acceder."
+   },
+   "sharebutton_extension_description": {
+      "message": "Utiliza la extensi\u00F3n Share para compartir p\u00E1ginas web a trav\u00E9s de tus redes sociales, correo electr\u00F3nico y blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Bot\u00F3n de Google Share"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Comparte esta p\u00E1gina con amigos utilizando $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Cargando..."
+   },
+   "sharebutton_more_items": {
+      "message": "M\u00E1s ..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Mostrar m\u00E1s servicios en este men\u00FA"
+   },
+   "sharebutton_options_attribution": {
+      "message": "El icono de Open Share Icon se encuentra disponible en \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E y est\u00E1 provisto de una licencia Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicense\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Selecciona los servicios que quisieras que se muestren en el men\u00FA."
+   },
+   "sharebutton_options_clear": {
+      "message": "Restablecer los par\u00E1metros predeterminados"
+   },
+   "sharebutton_options_item": {
+      "message": "Opciones"
+   },
+   "sharebutton_options_title": {
+      "message": "Opciones del bot\u00F3n Google Share"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "P\u00E1gina de visualizaci\u00F3n de opciones para configurar la extensi\u00F3n"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Cerrar"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Ver m\u00E1s servicios"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAdvertencia:\u003C/b\u003E El bot\u00F3n de Google Share muestra hasta $1 de los servicios que has seleccionado.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Compartir esta p\u00E1gina usando:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Compartido con el bot\u00F3n de Google Share"
+   }
+}

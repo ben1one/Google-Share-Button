@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "\u900F\u904E\u793E\u4EA4\u7DB2\u8DEF\u670D\u52D9\u6216\u96FB\u5B50\u90F5\u4EF6\u8207\u597D\u53CB\u5206\u4EAB\u7DB2\u9801\u5167\u5BB9\u3002"
+   },
+   "sharebutton_cant_share": {
+      "message": "\u7121\u6CD5\u5206\u4EAB\u6B64\u7DB2\u9801\uFF0C\u9019\u53EF\u80FD\u56E0\u70BA\u8A72\u7DB2\u9801\u662F\u5B89\u5168\u7DB2\u9801\u6216\u7121\u6CD5\u516C\u958B\u700F\u89BD\u7684\u7DB2\u9801\u3002"
+   },
+   "sharebutton_extension_description": {
+      "message": "\u4F7F\u7528\u300C\u5206\u4EAB\u300D\u64F4\u5145\u529F\u80FD\uFF0C\u53EF\u900F\u904E\u60A8\u7684\u793E\u4EA4\u7DB2\u8DEF\u3001\u96FB\u5B50\u90F5\u4EF6\u8207\u90E8\u843D\u683C\uFF0C\u5206\u4EAB\u7DB2\u9801\u3002"
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "\u900F\u904E $1 \u8207\u597D\u53CB\u5206\u4EAB\u6B64\u7DB2\u9801",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "\u8F09\u5165\u4E2D..."
+   },
+   "sharebutton_more_items": {
+      "message": "\u66F4\u591A..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "\u5728\u6B64\u9078\u55AE\u4E2D\u986F\u793A\u66F4\u591A\u670D\u52D9"
+   },
+   "sharebutton_options_attribution": {
+      "message": "\u60A8\u53EF\u4EE5\u524D\u5F80\u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E \u7ACB\u5373\u4E0B\u8F09\u63A1\u7528 Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003E\u6388\u6B0A\u003C/a\u003E\u7684 Open Share Icon\u3002"
+   },
+   "sharebutton_options_choose_text": {
+      "message": "\u9078\u64C7\u60F3\u8981\u986F\u793A\u5728\u9078\u55AE\u4E0A\u7684\u670D\u52D9\u3002"
+   },
+   "sharebutton_options_clear": {
+      "message": "\u91CD\u8A2D\u70BA\u9810\u8A2D\u503C"
+   },
+   "sharebutton_options_item": {
+      "message": "\u9078\u9805"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button \u9078\u9805"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "\u5728\u53EF\u4EE5\u8A2D\u5B9A\u64F4\u5145\u529F\u80FD\u6642\uFF0C\u986F\u793A\u300C\u9078\u9805\u300D\u9801\u9762"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "\u95DC\u9589"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "\u6AA2\u8996\u66F4\u591A\u670D\u52D9"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003E\u8B66\u544A\uFF1A\u003C/b\u003EGoogle Share Button \u6700\u591A\u53EF\u986F\u793A $1 \u500B\u60A8\u6240\u9078\u53D6\u7684\u670D\u52D9\u3002",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "\u900F\u904E\u4EE5\u4E0B\u65B9\u5F0F\u5206\u4EAB\u6B64\u7DB2\u9801\uFF1A"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- \u900F\u904E Google Share Button \u5206\u4EAB\u6709\u8DA3\u7684\u5167\u5BB9"
+   }
+}

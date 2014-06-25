@@ -1,0 +1,23 @@
+{
+	"background": {
+		"scripts": ["background_with_deps.js"]
+	},
+	"browser_action": {
+		"default_icon": "openshareicon-32x32.png",
+		"default_title": "__MSG_sharebutton_button_tooltip__",
+		"default_popup": "popup.html"
+	},
+	"name": "__MSG_sharebutton_extension_name__",
+	"version": "1.1.0.13",
+	"manifest_version": 2,
+	"default_locale": "en",
+	"description": "Use the Share extension to share webpages via your social networks, email and blogs.",
+   "icons": {
+      "128": "openshareicon-128x128.png",
+      "16": "openshareicon-16x16.png",
+      "32": "openshareicon-32x32.png",
+      "48": "openshareicon-48x48.png"
+   },
+	"options_page": "options.html",
+	"permissions": ["tabs",	"http://goo.gl/"]	
+}

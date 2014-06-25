@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Jaa t\u00E4m\u00E4 sivu yst\u00E4viesi kanssa sosiaalisten verkkopalveluiden tai s\u00E4hk\u00F6postin kautta."
+   },
+   "sharebutton_cant_share": {
+      "message": "T\u00E4t\u00E4 sivua ei voi jakaa. Sivu saattaa olla yksityinen ja suojattu."
+   },
+   "sharebutton_extension_description": {
+      "message": "Jaa laajennus -ominaisuuden avulla voit jakaa verkkosivuja sosiaalisten verkkopalveluiden, s\u00E4hk\u00F6postin ja blogien v\u00E4lityksell\u00E4."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Jaa t\u00E4m\u00E4 sivu yst\u00E4viesi kanssa k\u00E4ytt\u00E4en palvelua $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Ladataan..."
+   },
+   "sharebutton_more_items": {
+      "message": "Lis\u00E4\u00E4..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "N\u00E4yt\u00E4 lis\u00E4\u00E4 palveluita t\u00E4ss\u00E4 valikossa."
+   },
+   "sharebutton_options_attribution": {
+      "message": "Open Share Icon on saatavilla osoitteesta \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E ja sen k\u00E4ytt\u00F6oikeus on Creative Commons -\u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\"\u003Ek\u00E4ytt\u00F6luvan\u003C/a\u003E alainen."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Valitse palvelut, jotka n\u00E4ytet\u00E4\u00E4n valikossa."
+   },
+   "sharebutton_options_clear": {
+      "message": "Palauta oletukset"
+   },
+   "sharebutton_options_item": {
+      "message": "Asetukset"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button -asetukset"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "N\u00E4ytt\u00F6asetukset-sivu, jossa laajennuksen asetuksia voi muuttaa"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Sulje"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Lis\u00E4\u00E4 palveluita"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EVaroitus:\u003C/b\u003E Google Share Button n\u00E4ytt\u00E4\u00E4 korkeintaan $1 valitsemistasi palveluista.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Jaa t\u00E4m\u00E4 sivu k\u00E4ytt\u00E4en palvelua:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Jaettu Google Share Buttonin kautta"
+   }
+}

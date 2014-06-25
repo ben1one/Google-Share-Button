@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Share this page with friends, using social networking services or email."
+   },
+   "sharebutton_cant_share": {
+      "message": "This page can't be shared. It may be a secure page or a page not accessible to the public."
+   },
+   "sharebutton_extension_description": {
+      "message": "Use the Share extension to share web pages via your social networks, email and blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Share this page with friends, using $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Loading..."
+   },
+   "sharebutton_more_items": {
+      "message": "More..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Display more services in this menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "The Open Share Icon is available at \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E and is licensed under a Creative Commons \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicence\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Choose the services that you'd like to have displayed in the menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Reset to defaults"
+   },
+   "sharebutton_options_item": {
+      "message": "Options"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button Options"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Display Options page where the extension can be configured"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Close"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "View more services"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EWarning:\u003C/b\u003E Google Share Button displays up to $1 of the services that you have selected.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Share this page, using:"
+   },
+   "sharebutton_shared_with": {
+      "message": "- Shared with Google Share Button"
+   }
+}

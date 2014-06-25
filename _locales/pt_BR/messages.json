@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Compartilhe esta p\u00E1gina com os seus amigos usando servi\u00E7os de rede social ou e-mail."
+   },
+   "sharebutton_cant_share": {
+      "message": "Esta p\u00E1gina n\u00E3o pode ser compartilhada. Talvez ela seja uma p\u00E1gina segura ou uma p\u00E1gina que n\u00E3o pode ser acessada pelo p\u00FAblico em geral."
+   },
+   "sharebutton_extension_description": {
+      "message": "Use a extens\u00E3o Compartilhar para compartilhar p\u00E1ginas da web por meio das suas redes sociais, e-mails e blogs."
+   },
+   "sharebutton_extension_name": {
+      "message": "Bot\u00E3o de compartilhamento do Google"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Compartilhar esta p\u00E1gina via $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Carregando..."
+   },
+   "sharebutton_more_items": {
+      "message": "Mais..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Exibir mais servi\u00E7os neste menu"
+   },
+   "sharebutton_options_attribution": {
+      "message": "O \u00EDcone do Open Share est\u00E1 dispon\u00EDvel em \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E e \u00E9 licenciado sob uma \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003Elicen\u00E7a\u003C/a\u003E do Creative Commons."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "Escolha os servi\u00E7os que voc\u00EA deseja exibir no menu."
+   },
+   "sharebutton_options_clear": {
+      "message": "Voltar aos valores padr\u00E3o"
+   },
+   "sharebutton_options_item": {
+      "message": "Op\u00E7\u00F5es"
+   },
+   "sharebutton_options_title": {
+      "message": "Op\u00E7\u00F5es do Bot\u00E3o de compartilhamento do Google"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Exibir a p\u00E1gina de Op\u00E7\u00F5es na qual a extens\u00E3o pode ser configurada"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Fechar"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Ver mais servi\u00E7os"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EAviso:\u003C/b\u003E O Bot\u00E3o de compartilhamento do Google exibe at\u00E9 $1 dos servi\u00E7os que voc\u00EA selecionou.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Compartilhar esta p\u00E1gina usando:"
+   },
+   "sharebutton_shared_with": {
+      "message": "-- Compartilhado com o Bot\u00E3o de compartilhamento do Google"
+   }
+}

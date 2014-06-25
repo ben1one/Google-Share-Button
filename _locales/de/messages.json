@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Diese Seite f\u00FCr Freunde \u00FCber ein soziales Netzwerk oder per E-Mail freigeben"
+   },
+   "sharebutton_cant_share": {
+      "message": "Diese Seite kann nicht weitergegeben werden. M\u00F6glicherweise handelt es sich um eine sichere oder nicht \u00F6ffentlich zug\u00E4ngliche Seite."
+   },
+   "sharebutton_extension_description": {
+      "message": "Mit der Erweiterung \"Weitergeben\" k\u00F6nnen Sie Webseiten \u00FCber soziale Netzwerke, E-Mails und Blogs weiterleiten."
+   },
+   "sharebutton_extension_name": {
+      "message": "Google Share Button"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Diese Seite \u00FCber $1 f\u00FCr Freunde freigeben",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "Wird geladen..."
+   },
+   "sharebutton_more_items": {
+      "message": "Mehr..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Weitere Services in diesem Men\u00FC anzeigen"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Das Open Share Icon ist unter \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003E http://www.openshareicons.com/\u003C/a\u003E verf\u00FCgbar und im Rahmen einer \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003ECreative Commons-Lizenz\u003C/a\u003E lizenziert."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "W\u00E4hlen Sie die Services, die im Men\u00FC angezeigt werden sollen."
+   },
+   "sharebutton_options_clear": {
+      "message": "Auf Standardeinstellungen zur\u00FCcksetzen"
+   },
+   "sharebutton_options_item": {
+      "message": "Optionen"
+   },
+   "sharebutton_options_title": {
+      "message": "Google Share Button - Optionen"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Zeigt Seite \"Optionen\" an, auf der die Erweiterung konfiguriert werden kann."
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "Schlie\u00DFen"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Weitere Dienste anzeigen"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EWarnung:\u003C/b\u003E Google Share Button zeigt bis zu $1 von Ihnen ausgew\u00E4hlte Services an.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Diese Seite freigeben mit:"
+   },
+   "sharebutton_shared_with": {
+      "message": "- \u00DCber Google Share Button weitergegeben"
+   }
+}

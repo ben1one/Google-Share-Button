@@ -1,0 +1,69 @@
+{
+   "sharebutton_button_tooltip": {
+      "message": "Dela den h\u00E4r sidan med v\u00E4nner via sociala n\u00E4rverkstj\u00E4nster eller e-post."
+   },
+   "sharebutton_cant_share": {
+      "message": "Det g\u00E5r inte att dela den h\u00E4r sidan. Den kanske \u00E4r s\u00E4ker eller ocks\u00E5 \u00E4r den inte tillg\u00E4nglig f\u00F6r allm\u00E4nheten."
+   },
+   "sharebutton_extension_description": {
+      "message": "Anv\u00E4nd till\u00E4gget Dela om du vill dela webbsidor via sociala n\u00E4tverk, e-post och bloggar."
+   },
+   "sharebutton_extension_name": {
+      "message": "Knappen Google Share"
+   },
+   "sharebutton_item_tooltip": {
+      "message": "Dela sidan med v\u00E4nner p\u00E5: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_loading": {
+      "message": "L\u00E4ser in..."
+   },
+   "sharebutton_more_items": {
+      "message": "Mer..."
+   },
+   "sharebutton_more_tooltip": {
+      "message": "Visa fler tj\u00E4nster i menyn"
+   },
+   "sharebutton_options_attribution": {
+      "message": "Du hittar Open Share Icon p\u00E5 \u003Ca href=\"http://www.openshareicons.com/\" target=\"_blank\"\u003Ehttp://www.openshareicons.com/\u003C/a\u003E. Open Share Icon \u00E4r licensierad enligt en \u003Ca href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"\u003ECreative Commons-licens\u003C/a\u003E."
+   },
+   "sharebutton_options_choose_text": {
+      "message": "V\u00E4lj vilka tj\u00E4nster du vill visa i menyn."
+   },
+   "sharebutton_options_clear": {
+      "message": "\u00C5terst\u00E4ll standardv\u00E4rden"
+   },
+   "sharebutton_options_item": {
+      "message": "Alternativ"
+   },
+   "sharebutton_options_title": {
+      "message": "Alternativ f\u00F6r knappen Google Share"
+   },
+   "sharebutton_options_tooltip": {
+      "message": "Visa sidan Alternativ d\u00E4r du kan konfigurera till\u00E4gg"
+   },
+   "sharebutton_options_view_more_close": {
+      "message": "St\u00E4ng"
+   },
+   "sharebutton_options_view_more_text": {
+      "message": "Visa fler tj\u00E4nster"
+   },
+   "sharebutton_options_warning": {
+      "message": "\u003Cb\u003EVarning!\u003C/b\u003E Knappen Google Share visar upp till $1 av de tj\u00E4nster du har valt.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sharebutton_share_via": {
+      "message": "Dela sidan med:"
+   },
+   "sharebutton_shared_with": {
+      "message": "\u2013 Delat med knappen Google Share"
+   }
+}
