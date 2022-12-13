@@ -439,8 +439,18 @@ googleShareButton.onProviderShared = function(providerId, title, sharedUrl) {
           var providerUrl = getPopulatedUrl_(provider.url, title, shortUrl);
           newWindow.location.replace(providerUrl)
         })
-      }else {
-        window.open(getPopulatedUrl_(provider.url, title, sharedUrl), "", "menubar=1,resizable=1,width=800,height=570")
+      } else {
+        chrome.windows.create({
+          url: getPopulatedUrl_(provider.url, title, sharedUrl),
+          width: 800,
+          height: 650,
+          top: 200,
+          left: 200,
+          type: "popup",
+        }, function (win) {
+          chrome.windows.update(win.id, { focused: false });
+        });
+        // window.open(getPopulatedUrl_(provider.url, title, sharedUrl), "", "menubar=1,resizable=1,width=800,height=570")
       }
     }
   }else {
